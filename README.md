@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Rastogi</h1>
 
-- 🔭 I’m currently working on **some javaScript projects**
-
-- 🌱 I’m currently learning **Unity, C# and Swift**
-
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-R-develop)
 
 
